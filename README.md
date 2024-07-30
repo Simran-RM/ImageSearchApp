@@ -1,4 +1,4 @@
-Please find the deployed project here: https://stackdevpro.github.io/ImageSearchApp/ 
+Please find the deployed project here: https://simran-rm.github.io/ImageSearchApp/ 
 
 # Getting Started with Create React App
 
